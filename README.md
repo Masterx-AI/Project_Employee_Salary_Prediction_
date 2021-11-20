@@ -33,8 +33,8 @@ We aim to solve the current problem statement by creating plan of action, Here a
 
 **2. Categorical Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/141452423-0e224fe0-5a77-47f0-a520-1c0f309c5bd2.png)
-![image](https://user-images.githubusercontent.com/54996245/141452437-439ae079-c205-426a-8ce1-817903a0e4ed.png)
+![image](https://user-images.githubusercontent.com/54996245/142728589-96c49ce7-8863-4a50-baed-b44053678565.png)
+![image](https://user-images.githubusercontent.com/54996245/142728592-5c15fd42-296d-4079-9d60-feb7001f2cf5.png)
 
 **2. Numerical Feature-set Distribution**
 
