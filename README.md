@@ -29,8 +29,7 @@ We aim to solve the current problem statement by creating plan of action, Here a
 ### Some Visuals of the Project:
 **1. Target Variable Distribution**
 
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141452364-01c02877-4156-4e83-8d38-033ae13fb955.png" /></p>
-
+<p align="left"><img src="https://user-images.githubusercontent.com/54996245/142728573-42c6ca90-a4ce-43b6-9064-35cffa98dc58.png" /></p>
 
 **2. Categorical Feature-set Distribution**
 
