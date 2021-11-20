@@ -54,18 +54,23 @@ We aim to solve the current problem statement by creating plan of action, Here a
 
 ![image](https://user-images.githubusercontent.com/54996245/142728629-2b4c04f5-cf2e-4beb-9649-645297ab809d.png)
 
-**7. Multiple Linear Regression Prediction & Residual Normality Check**
+**6. Multiple Linear Regression Prediction & Residual Normality Check**
 
-![image](https://user-images.githubusercontent.com/54996245/141452683-7a0a0f1f-ad61-42d2-8431-4e814740ae63.png)
+![image](https://user-images.githubusercontent.com/54996245/142728650-8dbc0ac6-73d2-4c58-913e-fc6d0b930fcc.png)
 
-**8. Polynomial Degrees Comparison**
+**7. Polynomial Degrees Comparison**
 
-![image](https://user-images.githubusercontent.com/54996245/141452789-9216bc4b-c590-4bdc-8590-85bf8e0cf6d7.png)
+![image](https://user-images.githubusercontent.com/54996245/142728667-d7dd89e5-378f-43f8-8c2e-f2eacad68934.png)
+
+**8. Predictions**
+
+![image](https://user-images.githubusercontent.com/54996245/142728697-ccf4d1f4-997b-42ba-af37-c3a6fdcc8d88.png)
+
 
 **9. ML Algorithm's Scores Comparison (R2& RMSE) for the Ad Budge Dataset**
 
-![image](https://user-images.githubusercontent.com/54996245/141452832-ce98cc99-f3bc-48d6-b6d2-387d484e323c.png)
-![image](https://user-images.githubusercontent.com/54996245/141452866-26fe2f8c-0a95-4b15-9774-102786357dde.png)
+![image](https://user-images.githubusercontent.com/54996245/142728707-219e1a93-b5c2-4ff0-973f-488df92488dd.png)
+![image](https://user-images.githubusercontent.com/54996245/142728711-60a1ea62-6427-472d-bc40-58e48b2847c4.png)
 
 
 ### Here are some of the key outcomes of the project:
