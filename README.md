@@ -48,7 +48,7 @@ We aim to solve the current problem statement by creating plan of action, Here a
 
 **4. Data Retention after preforming preprocessing step**
 
-![image](https://user-images.githubusercontent.com/54996245/141452578-d128bca3-a189-48f5-985b-95c1a1363985.png)
+![image](https://user-images.githubusercontent.com/54996245/142728619-19bf98bb-9e15-40c6-a8cb-b1a6093324e0.png)
 
 **5. Correlation Plot**
 
