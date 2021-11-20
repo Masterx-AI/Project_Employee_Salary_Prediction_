@@ -44,7 +44,7 @@ We aim to solve the current problem statement by creating plan of action, Here a
 
 **3. Relationship between the Feature-set**
 
-![image](https://user-images.githubusercontent.com/54996245/141452553-e0943047-6571-4424-85e9-71e37f2517b0.png)
+![image](https://user-images.githubusercontent.com/54996245/142728609-bb82d861-e295-4862-ae5b-0db33eb47c50.png)
 
 **4. Data Retention after preforming preprocessing step**
 
