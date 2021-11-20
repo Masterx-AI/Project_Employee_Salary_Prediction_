@@ -52,7 +52,7 @@ We aim to solve the current problem statement by creating plan of action, Here a
 
 **5. Correlation Plot**
 
-![image](https://user-images.githubusercontent.com/54996245/141452606-6b0cd1db-9006-45ca-9661-498817c9c025.png)
+![image](https://user-images.githubusercontent.com/54996245/142728629-2b4c04f5-cf2e-4beb-9649-645297ab809d.png)
 
 **7. Multiple Linear Regression Prediction & Residual Normality Check**
 
