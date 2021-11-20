@@ -1,4 +1,5 @@
 # AI/ML Project: Employee Salary Prediction 💰
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/142728318-56642c69-2780-4b9d-9a84-618007198a9f.jpg" style="width: 1000px;"/></p>
 
 ### Description:
 
