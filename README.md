@@ -38,8 +38,8 @@ We aim to solve the current problem statement by creating plan of action, Here a
 
 **2. Numerical Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/141452518-c6b8c924-7f7e-4559-9746-9032730beb1e.png)
-![image](https://user-images.githubusercontent.com/54996245/141452527-8d38e9d7-a43d-4211-b6ad-0748bcad18f3.png)
+![image](https://user-images.githubusercontent.com/54996245/142728603-1e3c1c51-924b-48b1-9f2d-69667e453d41.png)
+![image](https://user-images.githubusercontent.com/54996245/142728605-8c11add5-a64b-4d2b-bdc3-bbaa79f848d0.png)
 
 
 **3. Relationship between the Feature-set**
